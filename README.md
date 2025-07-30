@@ -124,8 +124,5 @@
 <br/>
 
 
-```text
-Python   1 hrs 58 mins    █████████████████████████   100.00 %
-```
 <!--END_SECTION:waka-->
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/maheshrode22.maheshrode22.svg)
